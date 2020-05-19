@@ -12,7 +12,7 @@ print "------My Tim = Wisnu | panjull-----------------------"
 print "------Youtube= Cyber Limit --------------------------"
 print "-----------------------------------------------------"
 print 
-print "[+]Menu Virus[+]
+print "[+]Menu Virus[+]"
 print ""
 print "[1]. Virus Trojans "
 print "[2]. DDOS Attack "
