@@ -25,14 +25,12 @@ time.sleep(1)
 print "[3]. FB MBF"
 time.sleep(1)
 pilih= raw_input('[?] pilih : ')
+if pilih= "1":
 
-
-
-os.system('git clone https://github.com/Bl4ckDr460n/STrojan.py')
-          print "[+]Kalian ketik $ STrojan"
-          
-      os.system('clear')
-       print "[+]Lalu Ketik $ python2 STrojan.py"
+    os.system('git clone https://github.com/Bl4ckDr460n/STrojan.py')
+            print "[+]Kalian ketik $ STrojan"
+           os.system('clear')
+            print "[+]Lalu Ketik $ python2 STrojan.py"
 
 
 
