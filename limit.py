@@ -29,7 +29,6 @@ pilih= raw_input('[?] pilih : ')
 
 
 os.system('git clone https://github.com/Bl4ckDr460n/STrojan.py')
-          print "[+]penginstalan selesai"
           print "[+]Kalian ketik $ STrojan"
           
       os.system('clear')
