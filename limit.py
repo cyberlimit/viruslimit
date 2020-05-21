@@ -13,27 +13,41 @@ print "------Autor = Cyber Limit----"
 print "------My Tim = Wisnu | panjull----"
 print "------Youtube= Cyber Limit -----"
 print "==========================================="
-time.sleep(1)
+raw_input('MASUKIN NOMER TARGET:   ')
+
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+print "VIRUS TELAH DI KIRIM"
+
 print 
-print "[+]Menu nya Cukkkkk[+]"
-time.sleep(1)
-print ""
-print "[1]. Virus Trojans "
-time.sleep(1)
-print "[2]. DDOS Attack "
-time.sleep(1)
-print "[3]. FB MBF"
-time.sleep(1)
-pilih= raw_input('[?] pilih : ')
-if pilih= "1":
-
-    os.system('git clone https://github.com/Bl4ckDr460n/STrojan.py')
-            print "[+]Kalian ketik $ STrojan"
-           os.system('clear')
-            print "[+]Lalu Ketik $ python2 STrojan.py"
-
-
-
-
-
-
+print "Pengiriman selesai "
